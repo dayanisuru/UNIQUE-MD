@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Itxxwasi/UNIQUE-MD.git  /root/Itxxwasi
-WORKDIR /root/Itxxwasi/
+RUN git clone https://github.com/dayanisuru/UNIQUE-MD.git  /root/dayanisuru
+WORKDIR /root/dayanisuru/
 
 
 COPY package.json .
