@@ -72,11 +72,11 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 
 ☉Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/UNIQUE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/dayanisuru/UNIQUE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 # `Developer`
 
- <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+ <a href="https://github.com/dayanisuru"><img src="https://github.com/dayanisuru.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
 
 
 
